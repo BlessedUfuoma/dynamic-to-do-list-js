@@ -48,6 +48,5 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
-    // Optional: Run addTask on DOMContentLoaded (not really needed unless preloading tasks)
-    // addTask();
+
 });
